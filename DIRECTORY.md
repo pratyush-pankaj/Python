@@ -460,6 +460,13 @@
     * [Test Greedy Knapsack](knapsack/tests/test_greedy_knapsack.py)
     * [Test Knapsack](knapsack/tests/test_knapsack.py)
 
+## Learn
+  * [Helloworld](learn/helloWorld.py)
+  * [Inheritexample](learn/inheritExample.py)
+  * [Leetcode](learn/leetCode.py)
+  * [Listasstack](learn/listAsStack.py)
+  * [Oopsexample](learn/oopsExample.py)
+
 ## Linear Algebra
   * Src
     * [Conjugate Gradient](linear_algebra/src/conjugate_gradient.py)
